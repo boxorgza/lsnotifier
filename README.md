@@ -1,0 +1,2 @@
+# lsnotifier
+Load shedding notifier

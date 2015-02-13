@@ -1,2 +1,2 @@
 # lsnotifier
-Load shedding notifier
+load shedding notifier
